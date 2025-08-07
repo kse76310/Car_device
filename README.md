@@ -13,7 +13,9 @@
 > Wi-Fi 기반 연결, 인터넷 없이 직접 연결
 
 ### [ 구상도 ]
-![스크린샷 2025-07-08 083210.png](attachment:bdf04613-ef79-4e01-bae1-eb3c4ac153f4:스크린샷_2025-07-08_083210.png)
+
+<img width="500" height="378" alt="스크린샷 2025-07-08 083210" src="https://github.com/user-attachments/assets/5591c1c8-69cf-40bd-b3dd-437cb983bc14" />
+
 
 ---
 
@@ -38,4 +40,4 @@
 - UART 통신을 이용해 UI의 사용자 명령을 STM32에 전달하는 제어 로직 개발
 
 ### 결과
-![KakaoTalk_20250725_102818590.png](attachment:6f456986-fcf2-4b5c-bcb6-1562b0aae3ea:KakaoTalk_20250725_102818590.png)
+<img width="143" height="111" alt="스크린샷 2025-08-05 165836" src="https://github.com/user-attachments/assets/4b8f9250-ff07-4122-9e35-6890375a072d" />
